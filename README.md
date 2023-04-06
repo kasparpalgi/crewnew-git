@@ -6,7 +6,7 @@ As a fervent technology enthusiast, I am passionate about researching, developin
 
 I would be delighted to arrange a 15-30 minute chat, where we can delve into topics such as Test-Driven Development (TDD), pair programming, [Agile methodologies](https://crnw.uk/agile), code quality, and more. By employing the finest stack and techniques, I am confident in my ability to provide you with a backend, API, and user admin panel functionalities that are up to 10 times faster for your ultimate product.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaspar-palgi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaspar-palgi/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://kasparlpalgi.medium.com/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kaspar.palgi) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+447782588896)
 
 ## My skills
 
